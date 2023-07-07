@@ -1,0 +1,17 @@
+
+
+
+/* footer */
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container-fluid{
+    width: 85%;
+}
+.custom-container {
+    background-color: #f8f9fa;
+  }
+
+ 
